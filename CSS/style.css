@@ -1,11 +1,4 @@
 @import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap");
-
-
-.content_container{
-    max-width: 1440px;
-    margin: 0 auto;
-}
-
 .header_container {
   padding: 0px 15px;
   max-width: 1400px;
@@ -527,6 +520,11 @@
   display: none;
 }
 
+.nature_container {
+  max-width: 1440px;
+  margin: 0 auto;
+}
+
 .nature_texts {
   margin-top: 45px;
 }
@@ -604,6 +602,11 @@
   line-height: 42px;
   letter-spacing: 0.5px;
   color: #212A2F;
+}
+
+.climate__container {
+  max-width: 1440px;
+  margin: 0 auto;
 }
 
 .climate_texts {
